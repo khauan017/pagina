@@ -1,0 +1,78 @@
+    
+* {
+   
+   
+      /*código para centralizar o título "Sobre Mim", mas utilizei para o "bem-vindo"*/
+    
+       .sb{margin: auto;
+          width:12%;
+          padding: auto;
+         
+       }
+
+
+       /*esse código é para centralizar o título "Minha Formação"*/
+ 
+    .mf{margin: auto;
+       width:19%;
+       padding: auto;
+      
+    }
+    
+     }
+
+       
+      /*código para centralizar o título "portfólio"*/
+
+       .pf{margin: auto;
+         width:12%;
+         padding: auto;
+        
+      }
+      
+       /*código para centralizar o título "contato"*/
+
+      .ctt{margin: auto;
+          width:8%;
+          padding: auto;
+  
+      }
+
+   /*classe que fiz para o "bem-vindo"*/
+
+     .cor1 {
+        background-color: rgb(97, 24, 139) ;
+        text-align: center;
+        border-radius: 20px; 
+        border: 1px;
+   }
+
+   /*classe que criei pra caso precisar centralizar alguma frase*/
+
+
+    .lp{text-align: center;
+    
+    } 
+
+   /*ambos utilizados no inicio do site*/
+
+    a:hover {color: rgb(255, 255, 255)} ;
+    a:active {color: rgb(60, 255, 0);}
+
+/*foto centralizada*/
+
+    #photo{
+      display: flex;
+      justify-content: center;
+    }
+
+
+
+
+
+
+  
+    
+    
+    
+       
